@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Friends</title>
+</head>
+<body>
+
+    <h1>Meet My Friends</h1>
+
+    <div class="friend-card">
+        <h2>Friend 1: sravani</h2>
+        <p><strong>Age:</strong> 19</p>
+        <p><strong>Hobby:</strong> playing</p>
+        <p><strong>Favorite Color:</strong> Blue</p>
+    </div>
+
+    <div class="friend-card">
+        <h2>Friend 2: anusha</h2>
+        <p><strong>Age:</strong> 19</p>
+        <p><strong>Hobby:</strong>watching shows</p>
+        <p><strong>Favorite Color:</strong> Green</p>
+    </div>
+
+    <div class="friend-card">
+        <h2>Friend 3: myself</h2>
+        <p><strong>Age:</strong> 19</p>
+        <p><strong>Hobby:</strong> Painting</p>
+        <p><strong>Favorite Color:</strong> lavender</p>
+    </div>
+
+</body>
+</html>
